@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+artifacts/*.png
+algotrader7.db
+*.db-wal
+*.db-shm
